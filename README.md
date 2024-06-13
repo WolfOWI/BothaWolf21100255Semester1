@@ -3,9 +3,9 @@
 This repository contains the PDF document detailing my term 1 and term 2 projects for Development 200, including `fruts` and `exhibito`. Below you will find links to the GitHub code repositories and video presentations for each project.
 
 ## Student
-<h5 align="center" style="padding:0;margin:0;">Wolf Botha</h5>
-<h5 align="center" style="padding:0;margin:0;">21100255</h5>
-<h6 align="center">Development 200 Term 1 - 2024</h6>
+### Wolf Botha
+#### 21100255
+#### Development 200 Term 1 - 2024
 
 ## Projects
 
