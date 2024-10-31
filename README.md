@@ -13,6 +13,8 @@ This repository contains the PDF document detailing my term 1 and term 2 project
 **Project Description:**
 `fruts` is a colourful, interactive website that provides detailed insights into the nutritional content & historical price trends in Europe of nine different fruits via engaging charts and visualisations.
 
+**Deployed Website Link:**
+[fruts Deployed Wesbite](https://main.d2ezyl4ip4ahse.amplifyapp.com/)
 
 **GitHub Repository:**
 [fruts GitHub Repository](https://github.com/WolfOWI/fruts)
@@ -23,6 +25,9 @@ This repository contains the PDF document detailing my term 1 and term 2 project
 ### 2. Exhibito (Term 2 Project)
 **Project Description:**
 `Exhibito` is an art exhibition-hosting platform that connects arthouses with art enthusiasts. Users can explore, book and comment underneath events, art houses can create and host their own exhibitions, whilst admins can moderate and ensure the platform remains safe and respecful.
+
+**Deployed Website Link:**
+[Exhibito Deployed Wesbite](https://main.d3vravecqxapoe.amplifyapp.com/)
 
 **GitHub Repository:**
 [Exhibito GitHub Repository](https://github.com/WolfOWI/exhibito)
